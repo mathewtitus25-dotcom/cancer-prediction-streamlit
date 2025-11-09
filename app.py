@@ -41,7 +41,7 @@ except Exception as e:
 st.sidebar.title("🩺 Cancer Prediction System")
 st.sidebar.markdown("A Machine Learning dashboard to analyze, compare and predict Breast Cancer outcomes.")
 st.sidebar.markdown("---")
-st.sidebar.info("Developed by **Rocky**")
+st.sidebar.info("Developed by **Mathew and Shivalakshmi**")
 
 # =======================================
 # Tabs
@@ -182,4 +182,5 @@ with tabs[3]:
 st.sidebar.markdown("---")
 st.sidebar.markdown("📅 Project Version: Advanced v1.0")
 st.sidebar.caption("Built using **Python, scikit-learn, and Streamlit**.")
+
 
